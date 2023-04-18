@@ -1,6 +1,8 @@
-# 4730-Project-I
+# NumpAI
 
-4730 Machine Learning Fall 2022 Project I Repository
+A hard-coded NumPy implementation of a Convolutional Neural Network (CNN) for the MNIST dataset.
+
+4730 Machine Learning Fall 2022 Project I Repository -- We misread the assignment and thought we were supposed to implement a CNN from scratch. We were not. But now we have a hard-coded NumPy implementation of a CNN for the MNIST dataset. It is not very accurate, but it works.
 
 ## Running the Project
 
