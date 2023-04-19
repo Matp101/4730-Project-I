@@ -2,7 +2,7 @@
 
 A hard-coded NumPy implementation of a Convolutional Neural Network (CNN) for the MNIST dataset.
 
-4730 Machine Learning Fall 2022 Project I Repository -- We misread the assignment and thought we were supposed to implement a CNN from scratch. We were not. But now we have a hard-coded NumPy implementation of a CNN for the MNIST dataset. It is not very accurate, but it works.
+4730 Machine Learning Fall 2022 Project I Repository -- We misread the assignment and thought we were supposed to implement a CNN from scratch. We were not. But now we have a hard-coded NumPy implementation of a CNN for the MNIST dataset. It is the most accurate (~70%), but it works.
 
 This is a collaborative project between [Mathew Pellarin](https://github.com/Matp101) and I.
 
